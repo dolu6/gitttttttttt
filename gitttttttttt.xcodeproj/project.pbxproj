@@ -13,6 +13,7 @@
 		DC77AE292A0B2829005839BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC77AE282A0B2829005839BE /* Assets.xcassets */; };
 		DC77AE2C2A0B2829005839BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC77AE2B2A0B2829005839BE /* Preview Assets.xcassets */; };
 		DC77AE332A0B3E62005839BE /* CapybaraCute.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC77AE322A0B3E62005839BE /* CapybaraCute.swift */; };
+		DC77AE352A0B4232005839BE /* HiHi.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC77AE342A0B4232005839BE /* HiHi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DC77AE282A0B2829005839BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC77AE2B2A0B2829005839BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DC77AE322A0B3E62005839BE /* CapybaraCute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapybaraCute.swift; sourceTree = "<group>"; };
+		DC77AE342A0B4232005839BE /* HiHi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiHi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC77AE262A0B2828005839BE /* ContentView.swift */,
 				DC77AE322A0B3E62005839BE /* CapybaraCute.swift */,
 				7295754F2A0B3E8E0094E57A /* HelloWolrdPage.swift */,
+				DC77AE342A0B4232005839BE /* HiHi.swift */,
 				DC77AE282A0B2829005839BE /* Assets.xcassets */,
 				DC77AE2A2A0B2829005839BE /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				DC77AE332A0B3E62005839BE /* CapybaraCute.swift in Sources */,
 				729575502A0B3E8E0094E57A /* HelloWolrdPage.swift in Sources */,
+				DC77AE352A0B4232005839BE /* HiHi.swift in Sources */,
 				DC77AE272A0B2828005839BE /* ContentView.swift in Sources */,
 				DC77AE252A0B2828005839BE /* gittttttttttApp.swift in Sources */,
 			);
