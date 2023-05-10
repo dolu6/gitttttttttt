@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
-            Text("하랑이는 기여웡")
+            Text("I love capybara")
                 .foregroundColor(Color.pink)
                 .font(.title)
                 .bold()
