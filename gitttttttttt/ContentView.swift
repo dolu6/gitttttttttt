@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("I love capybara")
+            Text("기여운 하랑이")
                 .foregroundColor(Color.pink)
                 .font(.title)
                 .bold()
