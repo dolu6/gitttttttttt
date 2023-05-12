@@ -13,7 +13,7 @@ struct KeypadView: View {
             VStack(){
                 Text("010-3572-3154")
                     .font(.system(size:36))
-                Text("갈렙 ㅂㅅ")
+                Text("갈레비 기여웡")
                     .font(.system(size:18))
                     .padding(.bottom, 20.0)
                     .foregroundColor(Color(hex: "007AFF"))
