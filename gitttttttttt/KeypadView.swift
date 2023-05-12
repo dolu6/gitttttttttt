@@ -13,11 +13,14 @@ struct KeypadView: View {
             VStack(){
                 Text("010-3572-3154")
                     .font(.system(size:36))
+                    .padding(.bottom, 11.0)
+                    .padding(.top, 38.0)
                 Text("갈레비 기여웡")
                     .font(.system(size:18))
-                    .padding(.bottom, 20.0)
                     .foregroundColor(Color(hex: "007AFF"))
             }
+//            .padding(.top, 97.0)
+            .padding(.bottom, 63.0)
             VStack(){
                 HStack(){
                     ZStack(){
@@ -57,6 +60,7 @@ struct KeypadView: View {
                     }
                     
                 }
+                
                 HStack(){
                     
                     ZStack(){
@@ -95,7 +99,6 @@ struct KeypadView: View {
                                 .font(.system(size:10))
                         }
                     }
-                    .padding(.vertical, 9.0)
                     
                 }
                 HStack(){
@@ -169,7 +172,7 @@ struct KeypadView: View {
                             .foregroundColor(.black)
                             .font(.system(size:37))
                     }
-                    .padding(.vertical, 9.0)
+                    
                     
                 }
                 HStack(){
@@ -204,7 +207,9 @@ struct KeypadView: View {
                 }
                 
             }
-
+            .padding(.leading, 56.0)
+            .padding(.trailing, 55.0)
+//            .padding(.bottom, 180.0)
         }
     }
     
